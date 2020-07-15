@@ -1,6 +1,6 @@
 {
   "name": "@landerqi/eslint-config-js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "@landerqi / ESLint 配置 for js",
   "author": "landerqi <landerqi@qq.com>",
   "license": "MIT",
@@ -32,7 +32,6 @@
     "url": "https://github.com/landerqi/eslint-config/issues"
   },
   "homepage": "https://github.com/landerqi/eslint-config#readme",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
