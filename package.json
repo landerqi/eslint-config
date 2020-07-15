@@ -16,9 +16,7 @@
     "boot": "lerna bootstrap",
     "release": "git checkout master && lerna publish"
   },
-  "dependencies": {
-  },
   "devDependencies": {
-    "lerna": "^3.8.0"
+    "lerna": "^3.22.1"
   }
 }
