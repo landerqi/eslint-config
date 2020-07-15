@@ -1,0 +1,27 @@
+{
+  "name": "@landerqi/eslint-config-ts-vue",
+  "version": "1.0.0",
+  "description": "@landerqi / ESLint 配置 for ts-vue",
+  "author": "landerqi <landerqi@qq.com>",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/landerqi/eslint-config"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "@landerqi/eslint-config-ts": "^1.1.2",
+    "@landerqi/eslint-config-vue": "^1.0.2"
+  },
+  "peerDependencies": {
+    "eslint": ">=5.0.0"
+  }
+}
