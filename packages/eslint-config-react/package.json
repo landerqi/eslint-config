@@ -1,6 +1,6 @@
 {
   "name": "@landerqi/eslint-config-react",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "@landerqi / ESLint 配置 for react",
   "author": "landerqi <landerqi@qq.com>",
   "license": "MIT",
