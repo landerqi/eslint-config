@@ -1,6 +1,6 @@
 {
   "name": "@landerqi/babel-preset-vue",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "@landerqi / Babel 配置 for vue",
   "author": "landerqi <landerqi@qq.com>",
   "license": "MIT",

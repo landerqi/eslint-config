@@ -1,6 +1,6 @@
 {
   "name": "@landerqi/eslint-config-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "@landerqi / ESLint 配置 for js",
   "author": "landerqi <landerqi@qq.com>",
   "license": "MIT",

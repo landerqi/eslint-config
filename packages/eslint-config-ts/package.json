@@ -1,6 +1,6 @@
 {
   "name": "@landerqi/eslint-config-ts",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "@landerqi / ESLint 配置 for ts",
   "author": "landerqi <landerqi@qq.com>",
   "license": "MIT",
@@ -23,7 +23,7 @@
     ]
   },
   "dependencies": {
-    "@landerqi/eslint-config-js": "^0.0.2",
+    "@landerqi/eslint-config-js": "^0.0.3",
     "@typescript-eslint/eslint-plugin": "^1.9.0",
     "@typescript-eslint/parser": "^1.9.0"
   },
