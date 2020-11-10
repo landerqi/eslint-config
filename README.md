@@ -40,7 +40,7 @@ yarn add -D @landerqi/babel-preset-vue
   // babel-preset
    "babel": {
     "presets": [
-      ["@momoko/js", {
+      ["@landerqi/js", {
         "useBuiltIns": "usage"
       }]
     ]
