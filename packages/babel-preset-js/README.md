@@ -1,9 +1,9 @@
-# @momoko/babel-preset-js
+# @landerqi/babel-preset-js
 
 ## 安装
 
 ```bash
-yarn add -D @momoko/babel-preset-js
+yarn add -D @landerqi/babel-preset-js
 ```
 
 ## 使用
@@ -13,7 +13,7 @@ yarn add -D @momoko/babel-preset-js
 ```js
   "babel": {
     "presets": [
-      ["@momoko/js", {
+      ["@landerqi/js", {
         "useBuiltIns": "usage"
       }]
     ]
