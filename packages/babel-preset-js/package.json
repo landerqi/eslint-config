@@ -1,6 +1,6 @@
 {
   "name": "@landerqi/babel-preset-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "@landerqi / Babel 配置 for js",
   "author": "landerqi <landerqi@qq.com>",
   "license": "MIT",
