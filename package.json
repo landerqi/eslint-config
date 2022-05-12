@@ -1,0 +1,22 @@
+{
+  "name": "preset",
+  "description": "🌵 ESLint 配置模块",
+  "author": "landerqi <landerqi@qq.com>",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/landerqi/eslint-config"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "scripts": {
+    "boot": "lerna bootstrap",
+    "release": "git checkout master && lerna publish"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

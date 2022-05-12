@@ -1,0 +1,18 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "npmClient": "yarn",
+  "ignoreChanges": [
+    "**/__tests__/**",
+    "**/*.md"
+  ],
+  "command": {
+    "publish": {
+      "allowBranch": "master",
+      "message": "chore(release): publish",
+      "registry": "https://registry.npmjs.org"
+    }
+  }
+}

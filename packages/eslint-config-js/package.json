@@ -1,0 +1,38 @@
+{
+  "name": "@landerqi/eslint-config-js",
+  "version": "0.0.3",
+  "description": "@landerqi / ESLint 配置 for js",
+  "author": "landerqi <landerqi@qq.com>",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landerqi/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-node": "^9.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=5.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/landerqi/eslint-config/issues"
+  },
+  "homepage": "https://github.com/landerqi/eslint-config#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

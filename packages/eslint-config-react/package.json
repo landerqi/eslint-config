@@ -1,0 +1,29 @@
+{
+  "name": "@landerqi/eslint-config-react",
+  "version": "0.0.4",
+  "description": "@landerqi / ESLint 配置 for react",
+  "author": "landerqi <landerqi@qq.com>",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/landerqi/eslint-config"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "@landerqi/eslint-config-js": "^0.0.3",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=5.0.0"
+  },
+  "gitHead": "5ca5bc2d594633d1dda2781ae238301680b58a9f"
+}
